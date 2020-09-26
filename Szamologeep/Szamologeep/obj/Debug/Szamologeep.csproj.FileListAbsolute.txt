@@ -1,0 +1,10 @@
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\bin\Debug\Szamologeep.exe.config
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\bin\Debug\Szamologeep.exe
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\bin\Debug\Szamologeep.pdb
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\obj\Debug\Szamologeep.csprojAssemblyReference.cache
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\obj\Debug\Szamologeep.Form1.resources
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\obj\Debug\Szamologeep.Properties.Resources.resources
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\obj\Debug\Szamologeep.csproj.GenerateResource.cache
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\obj\Debug\Szamologeep.csproj.CoreCompileInputs.cache
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\obj\Debug\Szamologeep.exe
+C:\Esztii\Esztii\Iskola\VP\BB\Szamologeep\Szamologeep\obj\Debug\Szamologeep.pdb
